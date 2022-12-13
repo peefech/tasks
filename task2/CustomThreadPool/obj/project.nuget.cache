@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nmT/EeSVkIfTaN8BYfv4WTiQlj+icAKHK1MEznn5zByTgMxqne+DBpZ3lJ9L92qM/NBPz/R83na0cPKBiYkiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikhail\\Desktop\\CustomThreadPool\\CustomThreadPool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikhail\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
